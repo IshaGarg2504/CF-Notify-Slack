@@ -16,6 +16,7 @@ While deploying stack using template "CF_template.yml" use AWS SNS topic arn :
 Above commands send message to AWS Lambda (which is created with a trigger event of AWS SNS) and the python function **lambda.py** which is reponsible to post CF updates on slack will get trigger.
 Lambda function needs Slack WEBHOOK url and Slack channel to post message
 
-Below is the Screenshot of slack message:
+Below is the Screenshot of how slack message appear:
 
+./slack_message.jpg
 
