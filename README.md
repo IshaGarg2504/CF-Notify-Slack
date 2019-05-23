@@ -18,4 +18,6 @@ Lambda function needs Slack WEBHOOK url and Slack channel to post message
 
 Below is the Screenshot of how slack message appear:
 
-./slack_message.PNG
+
+![Slack Image](slack_message.PNG)
+
